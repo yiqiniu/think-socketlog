@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-socketlog",
+    "name": "yiqiniu/think-socketlog",
     "description": "SocketLog for thinkphp",
     "license": "Apache-2.0",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-	   "topthink/framework": "^6.0.0"
+	   "yiqiniu/framework": "^6.0.*.dev"
     },
     "autoload": {
         "psr-4": {
